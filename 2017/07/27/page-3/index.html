@@ -5,26 +5,24 @@
   
 
 
-<html class="theme-next pisces use-motion" lang="zh-Hans">
+<html class="theme-next gemini use-motion" lang="zh-Hans">
 <head>
   <meta charset="UTF-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta name="theme-color" content="#222">
 
 
 
 
 
-
-  
-  
-  <link rel="stylesheet" media="all" href="/lib/Han/dist/han.min.css?v=3.3">
 
 
 
 
 <meta http-equiv="Cache-Control" content="no-transform" />
 <meta http-equiv="Cache-Control" content="no-siteapp" />
+
 
 
 
@@ -47,50 +45,34 @@
 
 
 
-  
-  
-  
-  
-
-  
-    
-    
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-    
-    
-    <link href="//fonts.googleapis.com/css?family=Lato:300,300italic,400,400italic,700,700italic&subset=latin,latin-ext" rel="stylesheet" type="text/css">
-  
-
-
-
 
 
 
 <link href="/lib/font-awesome/css/font-awesome.min.css?v=4.6.2" rel="stylesheet" type="text/css" />
 
-<link href="/css/main.css?v=5.1.1" rel="stylesheet" type="text/css" />
+<link href="/css/main.css?v=5.1.3" rel="stylesheet" type="text/css" />
 
 
-  <meta name="keywords" content="鲁迅,杂文,青年," />
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png?v=5.1.3">
+
+
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png?v=5.1.3">
+
+
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png?v=5.1.3">
+
+
+  <link rel="mask-icon" href="/images/logo.svg?v=5.1.3" color="#222">
 
 
 
 
 
+  <meta name="keywords" content="杂文,鲁迅,青年," />
 
 
 
-  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?v=5.1.1" />
+
 
 
 
@@ -98,14 +80,14 @@
 
 
 <meta name="description" content="节选我又愿中国青年只是向上走，不必理会这冷笑和暗箭。 从来如此，便对么？ 人世间真是难处的地方，说一个人“不通世故”，固然不是好话，但说他“深于世故”，也不是好话。 空谈之类，是谈不久，也谈不出什么来的，它始终被事实的镜子照出原形，拖出尾巴而去。 中国人的性情是总喜欢调和折中的，譬如你说，这屋子太暗，须在这里开一个窗，大家一定不允许的。但如果你主张拆掉屋顶他们就来调和，愿意开窗了。——《无声的中国">
-<meta name="keywords" content="鲁迅,杂文,青年">
+<meta name="keywords" content="杂文,鲁迅,青年">
 <meta property="og:type" content="article">
 <meta property="og:title" content="鲁迅笔记节选一">
 <meta property="og:url" content="http://ranbeis.com/2017/07/27/page-3/index.html">
 <meta property="og:site_name" content="我的精神家园">
 <meta property="og:description" content="节选我又愿中国青年只是向上走，不必理会这冷笑和暗箭。 从来如此，便对么？ 人世间真是难处的地方，说一个人“不通世故”，固然不是好话，但说他“深于世故”，也不是好话。 空谈之类，是谈不久，也谈不出什么来的，它始终被事实的镜子照出原形，拖出尾巴而去。 中国人的性情是总喜欢调和折中的，譬如你说，这屋子太暗，须在这里开一个窗，大家一定不允许的。但如果你主张拆掉屋顶他们就来调和，愿意开窗了。——《无声的中国">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2017-07-27T14:00:06.905Z">
+<meta property="og:updated_time" content="2017-07-27T14:00:06.000Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="鲁迅笔记节选一">
 <meta name="twitter:description" content="节选我又愿中国青年只是向上走，不必理会这冷笑和暗箭。 从来如此，便对么？ 人世间真是难处的地方，说一个人“不通世故”，固然不是好话，但说他“深于世故”，也不是好话。 空谈之类，是谈不久，也谈不出什么来的，它始终被事实的镜子照出原形，拖出尾巴而去。 中国人的性情是总喜欢调和折中的，譬如你说，这屋子太暗，须在这里开一个窗，大家一定不允许的。但如果你主张拆掉屋顶他们就来调和，愿意开窗了。——《无声的中国">
@@ -116,10 +98,12 @@
   var NexT = window.NexT || {};
   var CONFIG = {
     root: '/',
-    scheme: 'Pisces',
-    sidebar: {"position":"left","display":"post","offset":12,"offset_float":0,"b2t":false,"scrollpercent":false,"onmobile":false},
+    scheme: 'Gemini',
+    version: '5.1.3',
+    sidebar: {"position":"left","display":"post","offset":12,"b2t":false,"scrollpercent":false,"onmobile":false},
     fancybox: true,
-    motion: true,
+    tabs: true,
+    motion: {"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},
     duoshuo: {
       userId: '0',
       author: '博主'
@@ -162,12 +146,6 @@
 
 
 
-
-
-
-
-
-
 </head>
 
 <body itemscope itemtype="http://schema.org/WebPage" lang="zh-Hans">
@@ -177,7 +155,7 @@
     
   
 
-  <div class="container sidebar-position-left page-post-detail ">
+  <div class="container sidebar-position-left page-post-detail">
     <div class="headband"></div>
 
     <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
@@ -223,6 +201,26 @@
         </li>
       
         
+        <li class="menu-item menu-item-about">
+          <a href="/about/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-user"></i> <br />
+            
+            关于
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-tags">
+          <a href="/tags/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-tags"></i> <br />
+            
+            标签
+          </a>
+        </li>
+      
+        
         <li class="menu-item menu-item-categories">
           <a href="/categories/" rel="section">
             
@@ -239,26 +237,6 @@
               <i class="menu-item-icon fa fa-fw fa-archive"></i> <br />
             
             归档
-          </a>
-        </li>
-      
-        
-        <li class="menu-item menu-item-tags">
-          <a href="/tags/" rel="section">
-            
-              <i class="menu-item-icon fa fa-fw fa-tags"></i> <br />
-            
-            标签
-          </a>
-        </li>
-      
-        
-        <li class="menu-item menu-item-about">
-          <a href="/about/" rel="section">
-            
-              <i class="menu-item-icon fa fa-fw fa-user"></i> <br />
-            
-            关于
           </a>
         </li>
       
@@ -290,7 +268,11 @@
   
   
 
-  <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
+  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
+  
+  
+  
+  <div class="post-block">
     <link itemprop="mainEntityOfPage" href="http://ranbeis.com/2017/07/27/page-3/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -371,7 +353,10 @@
       </header>
     
 
-    <div class="post-body han-init-context" itemprop="articleBody">
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
 
       
       
@@ -391,61 +376,60 @@
 
       
     </div>
+    
+    
+    
 
-    <div>
-      
-        
-<div id="wechat_subscriber" style="display: block; padding: 10px 0; margin: 20px auto; width: 100%; text-align: center">
+    
+      <div>
+        <div id="wechat_subscriber" style="display: block; padding: 10px 0; margin: 20px auto; width: 100%; text-align: center">
     <img id="wechat_subscriber_qcode" src="/upload/wechat-qcode.jpg" alt="赤子墨 wechat" style="width: 200px; max-width: 100%;"/>
     <div>欢迎关注个人微信号交流</div>
 </div>
 
+      </div>
+    
 
-      
-    </div>
+    
+      <div>
+        <div style="padding: 10px 0; margin: 20px auto; width: 90%; text-align: center;">
+  <div>坚持原创分享，您的支持将鼓励我继续创作！</div>
+  <button id="rewardButton" disable="enable" onclick="var qr = document.getElementById('QR'); if (qr.style.display === 'none') {qr.style.display='block';} else {qr.style.display='none'}">
+    <span>打赏</span>
+  </button>
+  <div id="QR" style="display: none;">
 
-    <div>
-      
-        
-  <div style="padding: 10px 0; margin: 20px auto; width: 90%; text-align: center;">
-    <div>坚持原创分享，您的支持将鼓励我继续创作！</div>
-    <button id="rewardButton" disable="enable" onclick="var qr = document.getElementById('QR'); if (qr.style.display === 'none') {qr.style.display='block';} else {qr.style.display='none'}">
-      <span>赏</span>
-    </button>
-    <div id="QR" style="display: none;">
-      
-        <div id="wechat" style="display: inline-block">
-          <img id="wechat_qr" src="/upload/wechat-reward-image.jpg" alt="赤子墨 WeChat Pay"/>
-          <p>微信打赏</p>
-        </div>
-      
-      
-        <div id="alipay" style="display: inline-block">
-          <img id="alipay_qr" src="/upload/alipay-reward-image.jpg" alt="赤子墨 Alipay"/>
-          <p>支付宝打赏</p>
-        </div>
-      
-    </div>
+    
+      <div id="wechat" style="display: inline-block">
+        <img id="wechat_qr" src="/upload/wechat-reward-image.jpg" alt="赤子墨 微信支付"/>
+        <p>微信支付</p>
+      </div>
+    
+
+    
+      <div id="alipay" style="display: inline-block">
+        <img id="alipay_qr" src="/upload/alipay-reward-image.jpg" alt="赤子墨 支付宝"/>
+        <p>支付宝</p>
+      </div>
+    
+
+    
+
   </div>
+</div>
 
+      </div>
+    
 
-      
-    </div>
-
-    <div>
-      
-        
-
-      
-    </div>
+    
 
     <footer class="post-footer">
       
         <div class="post-tags">
           
-            <a href="/tags/鲁迅/" rel="tag"># 鲁迅</a>
-          
             <a href="/tags/杂文/" rel="tag"># 杂文</a>
+          
+            <a href="/tags/鲁迅/" rel="tag"># 鲁迅</a>
           
             <a href="/tags/青年/" rel="tag"># 青年</a>
           
@@ -481,6 +465,10 @@
       
       
     </footer>
+  </div>
+  
+  
+  
   </article>
 
 
@@ -502,11 +490,11 @@
 
 
           
-  <div class="comments" id="comments">
-    
+  
+    <div class="comments" id="comments">
       <div id="lv-container" data-id="city" data-uid="MTAyMC8yOTc3NS82MzQx"></div>
-    
-  </div>
+    </div>
+  
 
 
         </div>
@@ -529,113 +517,105 @@
 
       
         <ul class="sidebar-nav motion-element">
-          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap" >
+          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap">
             文章目录
           </li>
-          <li class="sidebar-nav-overview" data-target="site-overview">
+          <li class="sidebar-nav-overview" data-target="site-overview-wrap">
             站点概览
           </li>
         </ul>
       
 
-      <section class="site-overview sidebar-panel">
-        <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
-          <img class="site-author-image" itemprop="image"
-               src="/images/avatar.jpg"
-               alt="赤子墨" />
-          <p class="site-author-name" itemprop="name">赤子墨</p>
-           
+      <section class="site-overview-wrap sidebar-panel">
+        <div class="site-overview">
+          <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            
+              <img class="site-author-image" itemprop="image"
+                src="/images/avatar.jpg"
+                alt="赤子墨" />
+            
+              <p class="site-author-name" itemprop="name">赤子墨</p>
               <p class="site-description motion-element" itemprop="description">世人皆知美之为美</p>
+          </div>
+
+          <nav class="site-state motion-element">
+
+            
+              <div class="site-state-item site-state-posts">
+              
+                <a href="/archives/">
+              
+                  <span class="site-state-item-count">11</span>
+                  <span class="site-state-item-name">日志</span>
+                </a>
+              </div>
+            
+
+            
+              
+              
+              <div class="site-state-item site-state-categories">
+                <a href="/categories/index.html">
+                  <span class="site-state-item-count">6</span>
+                  <span class="site-state-item-name">分类</span>
+                </a>
+              </div>
+            
+
+            
+              
+              
+              <div class="site-state-item site-state-tags">
+                <a href="/tags/index.html">
+                  <span class="site-state-item-count">30</span>
+                  <span class="site-state-item-name">标签</span>
+                </a>
+              </div>
+            
+
+          </nav>
+
           
+
+          <div class="links-of-author motion-element">
+            
+              
+                <span class="links-of-author-item">
+                  <a href="https://github.com/ranbeioc" target="_blank" title="GitHub">
+                    
+                      <i class="fa fa-fw fa-github"></i>GitHub</a>
+                </span>
+              
+                <span class="links-of-author-item">
+                  <a href="mailto:admin@ranbeis.com" target="_blank" title="E-Mail">
+                    
+                      <i class="fa fa-fw fa-envelope"></i>E-Mail</a>
+                </span>
+              
+                <span class="links-of-author-item">
+                  <a href="https://twitter.com/ranbeis" target="_blank" title="Twitter">
+                    
+                      <i class="fa fa-fw fa-twitter"></i>Twitter</a>
+                </span>
+              
+                <span class="links-of-author-item">
+                  <a href="https://www.facebook.com/ranbeis" target="_blank" title="FB Page">
+                    
+                      <i class="fa fa-fw fa-facebook"></i>FB Page</a>
+                </span>
+              
+            
+          </div>
+
+          
+          
+
+          
+          
+
+          
+
         </div>
-        <nav class="site-state motion-element">
-
-          
-            <div class="site-state-item site-state-posts">
-              <a href="/archives/">
-                <span class="site-state-item-count">11</span>
-                <span class="site-state-item-name">日志</span>
-              </a>
-            </div>
-          
-
-          
-            
-            
-            <div class="site-state-item site-state-categories">
-              <a href="/categories/index.html">
-                <span class="site-state-item-count">6</span>
-                <span class="site-state-item-name">分类</span>
-              </a>
-            </div>
-          
-
-          
-            
-            
-            <div class="site-state-item site-state-tags">
-              <a href="/tags/index.html">
-                <span class="site-state-item-count">30</span>
-                <span class="site-state-item-name">标签</span>
-              </a>
-            </div>
-          
-
-        </nav>
-
-        
-
-        <div class="links-of-author motion-element">
-          
-            
-              <span class="links-of-author-item">
-                <a href="https://github.com/ranbeioc" target="_blank" title="GitHub">
-                  
-                    <i class="fa fa-fw fa-github"></i>
-                  
-                  GitHub
-                </a>
-              </span>
-            
-              <span class="links-of-author-item">
-                <a href="https://twitter.com/ranbeis" target="_blank" title="Twitter">
-                  
-                    <i class="fa fa-fw fa-twitter"></i>
-                  
-                  Twitter
-                </a>
-              </span>
-            
-              <span class="links-of-author-item">
-                <a href="http://facebook.com/" target="_blank" title="Facebook">
-                  
-                    <i class="fa fa-fw fa-facebook"></i>
-                  
-                  Facebook
-                </a>
-              </span>
-            
-              <span class="links-of-author-item">
-                <a href="http://weibo.com/ranchina" target="_blank" title="Weibo">
-                  
-                    <i class="fa fa-fw fa-weibo"></i>
-                  
-                  Weibo
-                </a>
-              </span>
-            
-          
-        </div>
-
-        
-        
-
-        
-        
-
-        
-
-
       </section>
 
       
@@ -668,19 +648,32 @@
 
     <footer id="footer" class="footer">
       <div class="footer-inner">
-        <div class="copyright" >
-  
-  &copy;  2009 - 
-  <span itemprop="copyrightYear">2017</span>
+        <div class="copyright">&copy; 2009 &mdash; <span itemprop="copyrightYear">2017</span>
   <span class="with-love">
-    <i class="fa fa-heart"></i>
+    <i class="fa fa-user"></i>
   </span>
   <span class="author" itemprop="copyrightHolder">赤子墨</span>
+
+  
 </div>
 
 
 
+
+
+
+
+
+  <div class="footer-custom">Build by <a target="_blank" href="https://ranbeis.com">Ranbeis.com</a></div>
+
+
         
+
+
+
+
+
+
 
         
       </div>
@@ -714,8 +707,6 @@
   
 
 
-  
-
 
 
 
@@ -725,12 +716,7 @@
 
 
 
-  
-  
 
-
-
-  
 
 
 
@@ -753,27 +739,18 @@
   <script type="text/javascript" src="/lib/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
 
   
-  <script type="text/javascript" src="/lib/canvas-nest/canvas-nest.min.js"></script>
-
-  
   <script type="text/javascript" src="/lib/three/three.min.js"></script>
 
   
   <script type="text/javascript" src="/lib/three/canvas_lines.min.js"></script>
 
-  
-  <script type="text/javascript" src="/lib/three/canvas_sphere.min.js"></script>
-
-  
-  <script type="text/javascript" src="/lib/canvas-ribbon/canvas-ribbon.js"></script>
-
 
   
 
 
-  <script type="text/javascript" src="/js/src/utils.js?v=5.1.1"></script>
+  <script type="text/javascript" src="/js/src/utils.js?v=5.1.3"></script>
 
-  <script type="text/javascript" src="/js/src/motion.js?v=5.1.1"></script>
+  <script type="text/javascript" src="/js/src/motion.js?v=5.1.3"></script>
 
 
 
@@ -781,22 +758,22 @@
   
 
 
-  <script type="text/javascript" src="/js/src/affix.js?v=5.1.1"></script>
+  <script type="text/javascript" src="/js/src/affix.js?v=5.1.3"></script>
 
-  <script type="text/javascript" src="/js/src/schemes/pisces.js?v=5.1.1"></script>
-
-
-
-  
-  <script type="text/javascript" src="/js/src/scrollspy.js?v=5.1.1"></script>
-<script type="text/javascript" src="/js/src/post-details.js?v=5.1.1"></script>
+  <script type="text/javascript" src="/js/src/schemes/pisces.js?v=5.1.3"></script>
 
 
 
   
+  <script type="text/javascript" src="/js/src/scrollspy.js?v=5.1.3"></script>
+<script type="text/javascript" src="/js/src/post-details.js?v=5.1.3"></script>
 
 
-  <script type="text/javascript" src="/js/src/bootstrap.js?v=5.1.1"></script>
+
+  
+
+
+  <script type="text/javascript" src="/js/src/bootstrap.js?v=5.1.3"></script>
 
 
 
@@ -838,41 +815,21 @@
 
 
 
-  
-
-
-
 
 
   
 
+
+
+
+
+  
+
   
 
   
 
   
-  
-    <script type="text/x-mathjax-config">
-      MathJax.Hub.Config({
-        tex2jax: {
-          inlineMath: [ ['$','$'], ["\\(","\\)"]  ],
-          processEscapes: true,
-          skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
-        }
-      });
-    </script>
-
-    <script type="text/x-mathjax-config">
-      MathJax.Hub.Queue(function() {
-        var all = MathJax.Hub.getAllJax(), i;
-        for (i=0; i < all.length; i += 1) {
-          all[i].SourceElement().parentNode.className += ' has-jax';
-        }
-      });
-    </script>
-    <script type="text/javascript" src="//cdn.bootcss.com/mathjax/2.7.1/latest.js?config=TeX-AMS-MML_HTMLorMML"></script>
-  
-
 
   
 
