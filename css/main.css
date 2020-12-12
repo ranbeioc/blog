@@ -1250,7 +1250,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ff78cb;
+  background: #01d09e;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2856,7 +2856,41 @@ img.photo {
   background-position: center center;
 }
 blockquote {
-  border-left: 4px solid #7285b7 !important;
+  border-left: 4px solid #1a2950 !important;
   color: #fff !important;
   background-color: #000f22 !important;
+}
+table {
+  width: 100%;
+  max-width: 65em;
+  border: 1px solid #dedede;
+  margin: 15px auto;
+  border-collapse: collapse;
+  empty-cells: show;
+}
+table th,
+table td {
+  height: 35px;
+  border: 1px solid #2b2b2b;
+  padding: 0 10px;
+}
+table th {
+  font-weight: bold;
+  text-align: center !important;
+  background: #000102;
+}
+table tbody tr:nth-child(2n) {
+  background: rgba(158,188,226,0.12);
+}
+table tr:hover {
+  background: #333;
+}
+table th {
+  white-space: nowrap;
+}
+table td:nth-child(1) {
+  white-space: nowrap;
+}
+.sidebar-inner {
+  text-align: left;
 }
