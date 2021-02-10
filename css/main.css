@@ -1250,7 +1250,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #a4ff37;
+  background: #5d831b;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2837,7 +2837,7 @@ img.photo {
   box-shadow: inset -1px 1px 6px 1px rgba(0,0,0,0.24);
   width: 94%;
   height: 95%;
-  background: #fff;
+  background: #f1f1f1;
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
