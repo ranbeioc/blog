@@ -2,7 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://ranbeis.com/2023/02/20/page/</loc>
-    <lastmod>2023-02-20</lastmod>
+    <lastmod>2023-02-21</lastmod>
+  </url>
+  <url>
+    <loc>https://ranbeis.com/2022/12/04/page/</loc>
+    <lastmod>2023-02-21</lastmod>
+  </url>
+  <url>
+    <loc>https://ranbeis.com/2023/02/21/page/</loc>
+    <lastmod>2023-02-21</lastmod>
   </url>
   <url>
     <loc>https://ranbeis.com/2022/07/18/page/</loc>
@@ -121,67 +129,11 @@
     <lastmod>2020-11-14</lastmod>
   </url>
   <url>
-    <loc>https://ranbeis.com/2020/06/07/page/</loc>
+    <loc>https://ranbeis.com/2017/07/27/page-3/</loc>
     <lastmod>2020-11-11</lastmod>
   </url>
   <url>
-    <loc>https://ranbeis.com/2020/06/07/page-3/</loc>
-    <lastmod>2020-11-11</lastmod>
-  </url>
-  <url>
-    <loc>https://ranbeis.com/2020/06/07/page-2/</loc>
-    <lastmod>2020-11-11</lastmod>
-  </url>
-  <url>
-    <loc>https://ranbeis.com/2020/06/07/page-1/</loc>
-    <lastmod>2020-11-11</lastmod>
-  </url>
-  <url>
-    <loc>https://ranbeis.com/2017/12/15/page-4/</loc>
-    <lastmod>2020-11-11</lastmod>
-  </url>
-  <url>
-    <loc>https://ranbeis.com/2017/12/15/page/</loc>
-    <lastmod>2020-11-11</lastmod>
-  </url>
-  <url>
-    <loc>https://ranbeis.com/2017/12/15/page-2/</loc>
-    <lastmod>2020-11-11</lastmod>
-  </url>
-  <url>
-    <loc>https://ranbeis.com/2017/12/15/page-3/</loc>
-    <lastmod>2020-11-11</lastmod>
-  </url>
-  <url>
-    <loc>https://ranbeis.com/2017/12/15/page-1/</loc>
-    <lastmod>2020-11-11</lastmod>
-  </url>
-  <url>
-    <loc>https://ranbeis.com/2017/07/27/page/</loc>
-    <lastmod>2020-11-11</lastmod>
-  </url>
-  <url>
-    <loc>https://ranbeis.com/2017/07/27/page-8/</loc>
-    <lastmod>2020-11-11</lastmod>
-  </url>
-  <url>
-    <loc>https://ranbeis.com/2017/07/27/page-9/</loc>
-    <lastmod>2020-11-11</lastmod>
-  </url>
-  <url>
-    <loc>https://ranbeis.com/2017/07/27/page-7/</loc>
-    <lastmod>2020-11-11</lastmod>
-  </url>
-  <url>
-    <loc>https://ranbeis.com/2017/07/27/page-5/</loc>
-    <lastmod>2020-11-11</lastmod>
-  </url>
-  <url>
-    <loc>https://ranbeis.com/2017/07/27/page-4/</loc>
-    <lastmod>2020-11-11</lastmod>
-  </url>
-  <url>
-    <loc>https://ranbeis.com/2017/07/27/page-6/</loc>
+    <loc>https://ranbeis.com/2017/07/27/page-1/</loc>
     <lastmod>2020-11-11</lastmod>
   </url>
   <url>
@@ -189,7 +141,43 @@
     <lastmod>2020-11-11</lastmod>
   </url>
   <url>
-    <loc>https://ranbeis.com/2017/07/27/page-3/</loc>
+    <loc>https://ranbeis.com/2017/07/27/page-4/</loc>
+    <lastmod>2020-11-11</lastmod>
+  </url>
+  <url>
+    <loc>https://ranbeis.com/2017/07/27/page-7/</loc>
+    <lastmod>2020-11-11</lastmod>
+  </url>
+  <url>
+    <loc>https://ranbeis.com/2017/07/27/page-8/</loc>
+    <lastmod>2020-11-11</lastmod>
+  </url>
+  <url>
+    <loc>https://ranbeis.com/2017/07/27/page-6/</loc>
+    <lastmod>2020-11-11</lastmod>
+  </url>
+  <url>
+    <loc>https://ranbeis.com/2017/07/27/page/</loc>
+    <lastmod>2020-11-11</lastmod>
+  </url>
+  <url>
+    <loc>https://ranbeis.com/2017/07/27/page-9/</loc>
+    <lastmod>2020-11-11</lastmod>
+  </url>
+  <url>
+    <loc>https://ranbeis.com/2017/12/15/page-1/</loc>
+    <lastmod>2020-11-11</lastmod>
+  </url>
+  <url>
+    <loc>https://ranbeis.com/2017/07/27/page-5/</loc>
+    <lastmod>2020-11-11</lastmod>
+  </url>
+  <url>
+    <loc>https://ranbeis.com/2017/12/15/page-3/</loc>
+    <lastmod>2020-11-11</lastmod>
+  </url>
+  <url>
+    <loc>https://ranbeis.com/2017/12/15/page-2/</loc>
     <lastmod>2020-11-11</lastmod>
   </url>
   <url>
@@ -197,7 +185,27 @@
     <lastmod>2020-11-11</lastmod>
   </url>
   <url>
-    <loc>https://ranbeis.com/2017/07/27/page-1/</loc>
+    <loc>https://ranbeis.com/2017/12/15/page/</loc>
+    <lastmod>2020-11-11</lastmod>
+  </url>
+  <url>
+    <loc>https://ranbeis.com/2020/06/07/page-1/</loc>
+    <lastmod>2020-11-11</lastmod>
+  </url>
+  <url>
+    <loc>https://ranbeis.com/2020/06/07/page-2/</loc>
+    <lastmod>2020-11-11</lastmod>
+  </url>
+  <url>
+    <loc>https://ranbeis.com/2020/06/07/page-3/</loc>
+    <lastmod>2020-11-11</lastmod>
+  </url>
+  <url>
+    <loc>https://ranbeis.com/2020/06/07/page/</loc>
+    <lastmod>2020-11-11</lastmod>
+  </url>
+  <url>
+    <loc>https://ranbeis.com/2017/12/15/page-4/</loc>
     <lastmod>2020-11-11</lastmod>
   </url>
 </urlset> 
