@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://ranbeis.com/2023/04/02/page/</loc>
+    
+    <lastmod>2023-04-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ranbeis.com/2020/11/22/page/</loc>
+    
+    <lastmod>2023-04-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://ranbeis.com/2017/12/15/page-3/</loc>
     
     <lastmod>2023-04-02</lastmod>
@@ -165,15 +183,6 @@
   
   <url>
     <loc>https://ranbeis.com/2020/12/12/page/</loc>
-    
-    <lastmod>2020-12-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ranbeis.com/2020/11/22/page/</loc>
     
     <lastmod>2020-12-20</lastmod>
     
@@ -1606,6 +1615,34 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://ranbeis.com/tags/%E5%9D%82%E6%9C%AC%E9%BE%99%E4%B8%80/</loc>
+    <lastmod>2023-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ranbeis.com/tags/%E5%9D%82%E6%9C%AC%E9%BE%8D%E4%B8%80/</loc>
+    <lastmod>2023-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ranbeis.com/tags/Ryuichi-Sakamoto/</loc>
+    <lastmod>2023-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ranbeis.com/tags/%E6%97%A5%E6%9C%AC%E9%9F%B3%E4%B9%90%E4%BA%BA/</loc>
+    <lastmod>2023-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -1736,6 +1773,13 @@
   
   <url>
     <loc>https://ranbeis.com/categories/chatGPT-Topic/</loc>
+    <lastmod>2023-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ranbeis.com/categories/%E5%9D%82%E6%9C%AC%E9%BE%99%E4%B8%80/</loc>
     <lastmod>2023-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
