@@ -4426,4 +4426,28 @@
         <tag>日本音乐人</tag>
       </tags>
   </entry>
+  <entry>
+    <title>ChatGPT本站免费服务已在全域上线</title>
+    <url>/2023/04/09/page/</url>
+    <content><![CDATA[<p>网页直接访问：ChatGPT3.5turbo已部署在本地服务，现免费使用，GPT4定制开发中<br><a href="https://chat.ranbeis.com/">https://chat.ranbeis.com</a>  内置代理，可全域访问，有问题和交流请微信反馈</p>
+<div class="photopad"><div class="border"><a data-fancybox="images" class="frame" href="/2023/04/09/page/guidant_le_peuple.jpg"><img class="image" src="/2023/04/09/page/guidant_le_peuple.jpg"></a></div></div>
+
+
+<span id="more"></span>
+
+<br>
+
+<p>一、网页直接访问：<br><a href="https://chat.ranbeis.com/">https://chat.ranbeis.com</a></p>
+<p>二、客户端访问：<br>代理地址：<br><a href="https://api.ranbeis.com/">https://api.ranbeis.com</a> (需自备OpenaiKey)<br>本地使用：<br>安装Opencat或AMA后配置代理地址和Key</p>
+<p>1、Opencat（支持iOS iPad Mac）<br>苹果安装：<br><a href="https://apps.apple.com/app/opencat/id6445999201">https://apps.apple.com/app/opencat/id6445999201</a></p>
+<p>2、AMA问天（支持全平台）<br><a href="https://bytemyth.com/ama">https://bytemyth.com/ama</a><br>苹果安装：<br><a href="https://apps.apple.com/cn/app/ama-ask-me-anything/id6446135619">https://apps.apple.com/cn/app/ama-ask-me-anything/id6446135619</a><br>安卓安装：<br><a href="https://botgem.com/dist/ama-standalone-1.2.4.apk">https://botgem.com/dist/ama-standalone-1.2.4.apk</a><br>PC安装：<br><a href="https://botgem.com/dist/AMA%20Setup%201.0.7.exe">https://botgem.com/dist/AMA%20Setup%201.0.7.exe</a></p>
+]]></content>
+      <categories>
+        <category>ChatGPT</category>
+      </categories>
+      <tags>
+        <tag>ChatGPT</tag>
+        <tag>OpenAI</tag>
+      </tags>
+  </entry>
 </search>
