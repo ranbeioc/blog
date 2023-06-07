@@ -4429,7 +4429,7 @@
   <entry>
     <title>ChatGPT3&amp;BingGPT4免费体验服务已上线</title>
     <url>/2023/04/09/page/</url>
-    <content><![CDATA[<p>现ChatGPT3.5和bingGPT4体验版已部署在本地，无需登录免费体验！<br>PandoraGPT 访问  <a href="https://pand.ranbeis.com/">https://pand.ranbeis.com</a><br>ChatGPT3 访问  <a href="https://chat.ranbeis.com/">https://chat.ranbeis.com</a><br>bingGPT4 访问  <a href="https://bing.ranbeis.com/">https://bing.ranbeis.com</a><br>以上服务均无需登录，可全域访问，有疑问或建议请随时反馈</p>
+    <content><![CDATA[<p>现ChatGPT3.5和bingGPT4体验版已部署在本地，全域访问，免费体验！有疑问或建议请随时反馈<br>PandoraGPT 访问  <a href="https://pand.ranbeis.com/">https://pand.ranbeis.com</a><br>ChatGPT3 访问  <a href="https://chat.ranbeis.com/">https://chat.ranbeis.com</a><br>bingGPT4 访问  <a href="https://bingo.ranbeis.com/">https://bingo.ranbeis.com</a> 或 <a href="https://bing.ranbeis.com/">https://bing.ranbeis.com</a></p>
 <div class="photopad"><div class="border"><a data-fancybox="images" class="frame" href="/2023/04/09/page/guidant_le_peuple.jpg"><img class="image" src="/2023/04/09/page/guidant_le_peuple.jpg"></a></div></div>
 
 
@@ -4439,7 +4439,8 @@
 
 <p>一、网页直接访问：<br>本地体验PandoraGPT访问  <a href="https://pand.ranbeis.com/">https://pand.ranbeis.com</a><br>获取Accesstoken持续14天无限制使用官方镜像服务</p>
 <p>体验ChatGPT3请访问  <a href="https://chat.ranbeis.com/">https://chat.ranbeis.com</a><br>也可以在设置面板输入自有OpenAIKey使用</p>
-<p>体验bingGPT4请访问  <a href="https://bing.ranbeis.com/">https://bing.ranbeis.com</a><br>请将对话模式切换到’更有创意’体验GPT4<br>本站自定义服务地址为  <a href="https://bingsocket.ranbeis.com/">https://bingsocket.ranbeis.com</a><br>可在右上角设置切换‘服务选择’为‘本地’或’自定义’输入本地址</p>
+<p>体验bingGPT4精简版  <a href="https://bingo.ranbeis.com/">https://bingo.ranbeis.com</a>  </p>
+<p>体验bingGPT4完整版  <a href="https://bing.ranbeis.com/">https://bing.ranbeis.com</a><br>请将对话模式切换到’更有创意’体验GPT4，使用画图需要登录微软账号<br>本站自定义服务地址为  <a href="https://bingsocket.ranbeis.com/">https://bingsocket.ranbeis.com</a><br>可在右上角设置切换‘服务选择’为‘本地’或’自定义’输入本地址</p>
 <p>二、OpenAI客户端访问：<br>代理地址：<br><a href="https://api.ranbeis.com/">https://api.ranbeis.com</a> (需自备OpenaiKey)<br>本地使用：<br>安装Opencat或AMA后配置代理地址和Key</p>
 <p>1、Opencat（支持iOS iPad Mac）<br>苹果安装：<br><a href="https://apps.apple.com/app/opencat/id6445999201">https://apps.apple.com/app/opencat/id6445999201</a></p>
 <p>2、AMA问天（支持全平台）<br><a href="https://bytemyth.com/ama">https://bytemyth.com/ama</a><br>苹果安装：<br><a href="https://apps.apple.com/cn/app/ama-ask-me-anything/id6446135619">https://apps.apple.com/cn/app/ama-ask-me-anything/id6446135619</a><br>安卓安装：<br><a href="https://botgem.com/dist/ama-standalone-1.2.4.apk">https://botgem.com/dist/ama-standalone-1.2.4.apk</a><br>PC安装：<br><a href="https://botgem.com/dist/AMA%20Setup%201.0.7.exe">https://botgem.com/dist/AMA%20Setup%201.0.7.exe</a></p>
