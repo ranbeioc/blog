@@ -3979,10 +3979,9 @@
       </tags>
   </entry>
   <entry>
-    <title>ChatGPT&amp;GeminiPro免费体验服务已上线</title>
+    <title>GPTLabs Update</title>
     <url>/2023/04/09/page/</url>
-    <content><![CDATA[<p>ChatGPT&amp;GeminiPro免费服务已上线！有疑问或建议请随时反馈<br>GPTALL 访问  <a href="https://lobe.xhalo.top/">https://lobe.xhalo.top</a> （密码：freedom001）<br>已整合GPT4+VS+Dall-E-3、GeminiPro1+1.5+VS、MistralAI、GroqAI、OpenRouterAI</p>
-<p>ChatGPT 访问  <a href="https://chat.ranbeis.com/">https://chat.ranbeis.com</a> 或 <a href="https://ai.xhalo.me/">https://ai.xhalo.me</a><br>GeminiPro 访问 <a href="https://bard.xhalo.co/">https://bard.xhalo.co</a> 或 <a href="https://bard.xhalo.top/">https://bard.xhalo.top</a></p>
+    <content><![CDATA[<p>GPTLabs <a href="https://ai.xhalo.co/">https://ai.xhalo.co</a></p>
 <div class="photopad"><div class="border"><a data-fancybox="images" class="frame" href="/2023/04/09/page/guidant_le_peuple.jpg"><img class="image" src="/2023/04/09/page/guidant_le_peuple.jpg"></a></div></div>
 
 
@@ -3990,13 +3989,83 @@
 
 <br>
 
-<p>一、WEB直接访问：</p>
-<p>GPTALL 访问  <a href="https://lobe.xhalo.top/">https://lobe.xhalo.top</a> （密码：freedom001）<br>已整合GPT4+VS+Dall-E-3、GeminiPro1+1.5+VS、MistralAI、GroqAI、OpenRouterAI</p>
-<p>NextGPT 访问  <a href="https://chat.ranbeis.com/">https://chat.ranbeis.com</a> 或 <a href="https://ai.xhalo.me/">https://ai.xhalo.me/</a><br>GeminiPro 访问 <a href="https://bard.xhalo.co/">https://bard.xhalo.co</a> 或 <a href="https://bard.xhalo.top/">https://bard.xhalo.top</a></p>
-<p>二、OpenAI客户端访问：<br>代理地址：<br><a href="https://api.ranbeis.com/">https://api.ranbeis.com</a> (需自备OpenaiKey)<br>本地使用：<br>安装AMA后配置代理地址和Key</p>
-<p>AMA问天（支持全平台）<br><a href="https://botgem.com/">https://botgem.com</a></p>
-<p>iOS安装：<br><a href="https://apps.apple.com/app/ama-ask-me-anything/id6446135619">https://apps.apple.com/app/ama-ask-me-anything/id6446135619</a><br>安卓安装：<br><a href="https://botgem.com/dist/botgem-standalone-1.7.2.apk">https://botgem.com/dist/botgem-standalone-1.7.2.apk</a></p>
-<p>PC安装：<br><a href="https://apps.microsoft.com/detail/ama-the-gpt-app/9NQZVTBFJ86K">https://apps.microsoft.com/detail/ama-the-gpt-app/9NQZVTBFJ86K</a><br>MAC安装：<br>Apple Silicon：<a href="https://botgem.com/dist/BotGem-1.4.2-arm64.dmg">https://botgem.com/dist/BotGem-1.4.2-arm64.dmg</a><br>Intel：<a href="https://botgem.com/dist/BotGem-1.4.2.dmg">https://botgem.com/dist/BotGem-1.4.2.dmg</a></p>
+
+
+<ul>
+<li><p>AI:</p>
+<ul>
+<li>OpenWebUI:<br>href: <a href="https://opw.xhalo.co/">https://opw.xhalo.co</a></li>
+<li>LobeChat:<br>href: <a href="https://lobe.xhalo.co/">https://lobe.xhalo.co</a></li>
+<li>CF-AI:<br>href: <a href="https://cfai.xhalo.top/">https://cfai.xhalo.top</a></li>
+<li>MaxKB:<br>href: <a href="https://mkb.xhalo.co/">https://mkb.xhalo.co</a></li>
+<li>IDPhotos:<br>href: <a href="https://phto.xhalo.co/">https://phto.xhalo.co</a></li>
+<li>OneAPI:<br>href: <a href="https://oni.xhalo.co/">https://oni.xhalo.co</a></li>
+</ul>
+</li>
+<li><p>Study:</p>
+<ul>
+<li>EngQWE:<br>href: <a href="https://qe.xhalo.top/">https://qe.xhalo.top</a></li>
+<li>EngTyp:<br>href: <a href="https://twe.xhalo.top/">https://twe.xhalo.top</a></li>
+<li>EngLev:<br>href: <a href="https://eng.xhalo.top/">https://eng.xhalo.top</a></li>
+<li>KoodoRead:<br>href: <a href="https://krd.xhalo.co/">https://krd.xhalo.co</a></li>
+<li>Rebirth:<br>href: <a href="https://reb.xhalo.top/">https://reb.xhalo.top</a></li>
+<li>MBTItest:<br>href: <a href="https://mbt.xhalo.top/">https://mbt.xhalo.top</a></li>
+<li>MBTIeng:<br>href: <a href="https://mbte.xhalo.top/">https://mbte.xhalo.top</a></li>
+<li>TarotVoyant:<br>href: <a href="https://taro.xhalo.top/">https://taro.xhalo.top</a></li>
+<li>Sub2Clash:<br>href: <a href="https://s2c.xhalo.co/">https://s2c.xhalo.co</a></li>
+<li>Sub2Link:<br>href: <a href="https://sw.xhalo.top/">https://sw.xhalo.top</a></li>
+<li>ProxyConv:<br>href: <a href="https://ppc.xhalo.top/">https://ppc.xhalo.top</a></li>
+</ul>
+</li>
+<li><p>Tools:</p>
+<ul>
+<li>Firefly:<br>href: <a href="https://fly.xhalo.co/">https://fly.xhalo.co</a></li>
+<li>Memos:<br>href: <a href="https://meo.xhalo.co/">https://meo.xhalo.co</a></li>
+<li>StirlingPDF:<br>href: <a href="https://pdf.xhalo.co/">https://pdf.xhalo.co</a></li>
+<li>Excalidraw:<br>href: <a href="https://exd.xhalo.top/">https://exd.xhalo.top</a></li>
+<li>DrawIO:<br>href: <a href="https://dio.xhalo.co/">https://dio.xhalo.co</a></li>
+<li>MindMap:<br>href: <a href="https://xmp.xhalo.top/">https://xmp.xhalo.top</a></li>
+<li>AListDisk:<br>href: <a href="https://disk.xhalo.top/">https://disk.xhalo.top</a></li>
+<li>SLink:<br>href: <a href="https://slk.xhalo.co/">https://slk.xhalo.co</a></li>
+<li>FileBox:<br>href: <a href="https://fbx.xhalo.co/">https://fbx.xhalo.co</a></li>
+<li>MAZANOKE:<br>href: <a href="https://mzp.xhalo.co/">https://mzp.xhalo.co</a></li>
+<li>SmallPic:<br>href: <a href="https://spic.xhalo.top/">https://spic.xhalo.top</a></li>
+<li>Chalkist:<br>href: <a href="https://cs.xhalo.top/">https://cs.xhalo.top</a></li>
+<li>IPCheck:<br>href: <a href="https://ipc.xhalo.top/">https://ipc.xhalo.top</a></li>
+<li>WebCheck:<br>href: <a href="https://wchk.xhalo.co/">https://wchk.xhalo.co</a></li>
+<li>Change:<br>href: <a href="https://chg.xhalo.co/">https://chg.xhalo.co</a></li>
+</ul>
+</li>
+<li><p>Play:</p>
+<ul>
+<li>LibreTVF:<br>href: <a href="https://lbtv.xhalo.co/">https://lbtv.xhalo.co</a></li>
+<li>LibreTV:<br>href: <a href="https://lmv.xhalo.top/">https://lmv.xhalo.top</a></li>
+<li>Music:<br>href: <a href="https://msc.xhalo.co/">https://msc.xhalo.co</a></li>
+<li>Douyin:<br>href: <a href="https://dy.xhalo.top/">https://dy.xhalo.top</a></li>
+<li>DosGame:<br>href: <a href="https://dgm.xhalo.co/">https://dgm.xhalo.co</a></li>
+<li>IPtvAPI:<br>href: <a href="https://iptv.xhalo.co/">https://iptv.xhalo.co</a></li>
+<li>NTMscAPI:<br>href: <a href="https://mapi.xhalo.top/">https://mapi.xhalo.top</a></li>
+</ul>
+</li>
+<li><p>Develop:</p>
+<ul>
+<li>DataEase:<br>href: <a href="https://datae.xhalo.co/">https://datae.xhalo.co</a></li>
+<li>Umami:<br>href: <a href="https://uma.xhalo.co/">https://uma.xhalo.co</a></li>
+<li>Affine:<br>href: <a href="https://aff.xhalo.co/">https://aff.xhalo.co</a></li>
+<li>UpKuma:<br>href: <a href="https://kuma.xhalo.co/">https://kuma.xhalo.co</a></li>
+<li>Casdoor:<br>href: <a href="https://iam.xhalo.co/">https://iam.xhalo.co</a></li>
+<li>Drawdb:<br>href: <a href="https://ddb.xhalo.top/">https://ddb.xhalo.top</a></li>
+<li>SQLmother:<br>href: <a href="https://sql.xhalo.top/">https://sql.xhalo.top</a></li>
+<li>PostgreSQL:<br>href: <a href="https://pgp.xhalo.top/">https://pgp.xhalo.top</a></li>
+<li>Wiki:<br>href: <a href="https://wiki.xhalo.co/">https://wiki.xhalo.co</a></li>
+<li>BBS:<br>href: <a href="https://bbs.xhalo.co/">https://bbs.xhalo.co</a></li>
+<li>Reference:<br>href: <a href="https://rdoc.xhalo.co/">https://rdoc.xhalo.co</a></li>
+<li>ITtools:<br>href: <a href="https://its.xhalo.co/">https://its.xhalo.co</a></li>
+<li>JSComp:<br>href: <a href="https://jsc.xhalo.top/">https://jsc.xhalo.top</a></li>
+<li>Regexlearn:<br>href: <a href="https://rgx.xhalo.top/">https://rgx.xhalo.top</a></li>
+</ul>
+</li>
+</ul>
 ]]></content>
       <categories>
         <category>ChatGPT</category>
