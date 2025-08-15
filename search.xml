@@ -4411,8 +4411,40 @@
 <ul>
 <li><p>AI:</p>
 <ul>
-<li>OpenWebUI:<ul>
-<li>abbr: OP<br>href: <a href="https://opw.xhalo.co/">https://opw.xhalo.co</a></li>
+<li>N8N:<ul>
+<li>abbr: N8<br>href: <a href="https://n8n.xhalo.co/">https://n8n.xhalo.co</a></li>
+</ul>
+</li>
+<li>AstrBot:<ul>
+<li>abbr: AB<br>href: <a href="https://asb.xhalo.co/">https://asb.xhalo.co</a></li>
+</ul>
+</li>
+<li>LlmApiProxy:<ul>
+<li>abbr: AP<br>href: <a href="https://apx.xhalo.top/">https://apx.xhalo.top</a><br>#description: The front page of the internet</li>
+</ul>
+</li>
+<li>OP-ChatGPT:<ul>
+<li>abbr: OP<br>href: <a href="https://gpt.xhalo.co/">https://gpt.xhalo.co</a></li>
+</ul>
+</li>
+<li>xAI-Grok:<ul>
+<li>abbr: GK<br>href: <a href="https://grok.xhalo.co/">https://grok.xhalo.co</a></li>
+</ul>
+</li>
+<li>Grok-API:<ul>
+<li>abbr: GK<br>href: <a href="https://grokapi.xhalo.co/">https://grokapi.xhalo.co</a></li>
+</ul>
+</li>
+<li>DeepResearch:<ul>
+<li>abbr: DR<br>href: <a href="https://dps.xhalo.top/">https://dps.xhalo.top</a></li>
+</ul>
+</li>
+<li>GeminiBalance:<ul>
+<li>abbr: GB<br>href: <a href="https://gmb.xhalo.co/">https://gmb.xhalo.co</a></li>
+</ul>
+</li>
+<li>GeminiChat:<ul>
+<li>abbr: GC<br>href: <a href="https://gemini.xhalo.top/">https://gemini.xhalo.top</a></li>
 </ul>
 </li>
 <li>LobeChat:<ul>
@@ -4423,16 +4455,16 @@
 <li>abbr: CF<br>href: <a href="https://cfai.xhalo.top/">https://cfai.xhalo.top</a></li>
 </ul>
 </li>
-<li>MaxKB:<ul>
-<li>abbr: MK<br>href: <a href="https://mkb.xhalo.co/">https://mkb.xhalo.co</a></li>
-</ul>
-</li>
 <li>IDPhotos:<ul>
 <li>abbr: PO<br>href: <a href="https://phto.xhalo.co/">https://phto.xhalo.co</a></li>
 </ul>
 </li>
 <li>OneAPI:<ul>
 <li>abbr: ON<br>href: <a href="https://oni.xhalo.co/">https://oni.xhalo.co</a></li>
+</ul>
+</li>
+<li>NewAPI:<ul>
+<li>abbr: NA<br>href: <a href="https://nni.xhalo.co/">https://nni.xhalo.co</a></li>
 </ul>
 </li>
 <li>TtsAPI:<ul>
@@ -4447,14 +4479,14 @@
 <li>abbr: CT<br>href: <a href="https://cbt.xhalo.co/">https://cbt.xhalo.co</a></li>
 </ul>
 </li>
-<li>CobaltAPI:<ul>
-<li>abbr: CB<br>href: <a href="https://cob.xhalo.co/">https://cob.xhalo.co</a></li>
-</ul>
-</li>
 </ul>
 </li>
 <li><p>Study:</p>
 <ul>
+<li>WexinDoc:<ul>
+<li>abbr: MD<br>href: <a href="https://wmd.xhalo.co/">https://wmd.xhalo.co</a></li>
+</ul>
+</li>
 <li>EngQWE:<ul>
 <li>abbr: EQ<br>href: <a href="https://qe.xhalo.top/">https://qe.xhalo.top</a></li>
 </ul>
@@ -4479,8 +4511,16 @@
 <li>abbr: KR<br>href: <a href="https://krd.xhalo.co/">https://krd.xhalo.co</a></li>
 </ul>
 </li>
-<li>Rebirth:<ul>
+<li>ChinaRebirth:<ul>
 <li>abbr: RE<br>href: <a href="https://reb.xhalo.top/">https://reb.xhalo.top</a></li>
+</ul>
+</li>
+<li>ChinaHouse:<ul>
+<li>abbr: CH<br>href: <a href="https://cnh.xhalo.top/">https://cnh.xhalo.top</a></li>
+</ul>
+</li>
+<li>ChinaValues:<ul>
+<li>abbr: CN<br>href: <a href="https://cnv.xhalo.top/">https://cnv.xhalo.top</a></li>
 </ul>
 </li>
 <li>MBTItest:<ul>
@@ -4511,6 +4551,14 @@
 </li>
 <li><p>Tools:</p>
 <ul>
+<li>WxQRCode:<ul>
+<li>abbr: QC<br>href: <a href="https://qrc.xhalo.top/">https://qrc.xhalo.top</a></li>
+</ul>
+</li>
+<li>LinkShort:<ul>
+<li>abbr: SK<br>href: <a href="https://s.xhalo.co/">https://s.xhalo.co</a></li>
+</ul>
+</li>
 <li>Firefly:<ul>
 <li>abbr: FY<br>href: <a href="https://fly.xhalo.co/">https://fly.xhalo.co</a></li>
 </ul>
@@ -4537,6 +4585,14 @@
 </li>
 <li>AListDisk:<ul>
 <li>abbr: DK<br>href: <a href="https://disk.xhalo.top/">https://disk.xhalo.top</a></li>
+</ul>
+</li>
+<li>AListDisk:<ul>
+<li>abbr: DK<br>href: <a href="https://disk.xhalo.co/">https://disk.xhalo.co</a></li>
+</ul>
+</li>
+<li>TgDrvie:<ul>
+<li>abbr: TG<br>href: <a href="https://tgd.xhalo.co/">https://tgd.xhalo.co</a></li>
 </ul>
 </li>
 <li>SLink:<ul>
@@ -4583,16 +4639,16 @@
 <li>abbr: UM<br>href: <a href="https://uma.xhalo.co/">https://uma.xhalo.co</a></li>
 </ul>
 </li>
-<li>Metersphere:<ul>
-<li>abbr: MP<br>href: <a href="https://mtp.xhalo.top/">https://mtp.xhalo.top</a></li>
+<li>LogAys:<ul>
+<li>abbr: AS<br>href: <a href="https://ays.xhalo.co/">https://ays.xhalo.co</a></li>
 </ul>
 </li>
 <li>Focalboard:<ul>
-<li>abbr: FC<br>href: <a href="https://fcb.xhalo.top/">https://fcb.xhalo.top</a></li>
+<li>abbr: FC<br>href: <a href="https://fcb.xhalo.co/">https://fcb.xhalo.co</a></li>
 </ul>
 </li>
 <li>Planka:<ul>
-<li>abbr: PA<br>href: <a href="https://pka.xhalo.top/">https://pka.xhalo.top</a></li>
+<li>abbr: PA<br>href: <a href="https://pka.xhalo.co/">https://pka.xhalo.co</a></li>
 </ul>
 </li>
 <li>Affine:<ul>
@@ -4647,12 +4703,20 @@
 </li>
 <li><p>Play:</p>
 <ul>
+<li>SexAgree:<ul>
+<li>abbr: SA<br>href: <a href="https://sex.xhalo.top/">https://sex.xhalo.top</a></li>
+</ul>
+</li>
 <li>LibreTVF:<ul>
 <li>abbr: LF<br>href: <a href="https://lbtv.xhalo.co/">https://lbtv.xhalo.co</a></li>
 </ul>
 </li>
 <li>LibreTV:<ul>
 <li>abbr: LT<br>href: <a href="https://lmv.xhalo.top/">https://lmv.xhalo.top</a></li>
+</ul>
+</li>
+<li>MoonTV:<ul>
+<li>abbr: MT<br>href: <a href="https://mtv.xhalo.top/">https://mtv.xhalo.top</a></li>
 </ul>
 </li>
 <li>Music:<ul>
@@ -4677,6 +4741,18 @@
 </li>
 <li>DailyHotAPI:<ul>
 <li>abbr: DA<br>href: <a href="https://rsa.xhalo.top/">https://rsa.xhalo.top</a></li>
+</ul>
+</li>
+<li>60sAPI:<ul>
+<li>abbr: 60<br>href: <a href="https://60api.xhalo.top/">https://60api.xhalo.top</a></li>
+</ul>
+</li>
+<li>RSSAPI:<ul>
+<li>abbr: RS<br>href: <a href="https://rss.xhalo.top/">https://rss.xhalo.top</a></li>
+</ul>
+</li>
+<li>CobaltAPI:<ul>
+<li>abbr: CB<br>href: <a href="https://cob.xhalo.co/">https://cob.xhalo.co</a></li>
 </ul>
 </li>
 </ul>
